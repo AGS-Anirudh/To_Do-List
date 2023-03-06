@@ -73,15 +73,26 @@
     .nav{
         margin: 0 auto;
     }
-    .user_input input {
+    #todoo{
+        margin-bottom: 20px;
+    }
+    .user_input {
+        margin-top: 30px;
+        margin: 0 auto;
         width: 70%;
+        margin-bottom: 20px;
     }
     .tasks{
         width:375px;
+        margin: 0 auto;
     }
     .todoitems{
         margin:0 auto;
+        margin-bottom: 15px;
         width:375px;
+    }
+    #delete{
+        margin-left: 240px;
     }
 }
 
