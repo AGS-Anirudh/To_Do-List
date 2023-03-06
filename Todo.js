@@ -9,7 +9,7 @@ AddBtn.addEventListener('click',() =>{
     <h1>${input.value}</h1>
     <div class="item-btn">
     
-    <i class="fa-regular fa-2x fa-circle-check check"></i>
+    <i id="check" class="fa-regular fa-2x fa-circle-check check"></i>
     <i id="delete" class="fa-solid fa-2x fa-trash-can delete"></i>
  
     </div>
